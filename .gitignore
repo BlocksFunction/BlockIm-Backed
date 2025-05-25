@@ -36,3 +36,4 @@ build/
 package.json
 .prettierrc
 node_modules/
+bun.lock
